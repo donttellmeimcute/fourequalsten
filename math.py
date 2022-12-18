@@ -1,5 +1,3 @@
-#make a program that calculates every combination of operations between 4 numbers until get 10 and if needs to divide by 0 will skip that operation
-
 import itertools
 
 def main():
